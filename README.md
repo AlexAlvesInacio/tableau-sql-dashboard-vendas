@@ -140,4 +140,4 @@ O objetivo é demonstrar, de forma prática, como transformar dados brutos em **
 ## 👨‍💻 Autor
 
 **Alex Alves**
-Analista de Automação | Dados, SQL, Tableau e IA
+
